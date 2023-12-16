@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 function MainPage() {
   const [err, setErr] = useState(false);
   const navigate = useNavigate();
-
+  
   function onClick(e) {
     e.preventDefault();
     const fileInput = document.getElementById("fileInput");
