@@ -1,0 +1,17 @@
+.table__header {
+  height: 51px;
+}
+.table__header tr{
+  border-bottom: 2px solid #898989;
+}
+.table__header td {
+  border-right: 1px solid #c0c0c0;
+  padding-left: 35px;
+  padding-right: 10px;
+  color: #000;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

@@ -1,0 +1,17 @@
+.table__body td {
+  color: #000;
+  height: 44px;
+  text-align: left;
+  font-family: Noto Sans;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-left: 35px;
+}
+.table__body tr {
+  border-bottom: 1px solid #c0c0c0;
+}
+.table__body tr:hover {
+  background: rgba(99, 70, 180, 0.25);
+}

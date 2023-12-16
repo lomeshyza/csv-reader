@@ -1,0 +1,12 @@
+.mainPage__container {
+  width: 823px;
+  height: 367px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 2px 4px 9.9px 0px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

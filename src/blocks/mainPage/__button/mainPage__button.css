@@ -1,0 +1,21 @@
+.mainPage__button {
+  color: #fff;
+  border-style: none;
+  margin-top: 75px;
+  text-align: center;
+  font-family: Noto Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  width: 274px;
+  height: 48px;
+  border-radius: 5px;
+  background: #6346b4;
+}
+.mainPage__button:hover {
+  background: #a88ef0;
+  cursor: pointer;
+}
+.mainPage__button:active {
+  background: #311f63;
+}

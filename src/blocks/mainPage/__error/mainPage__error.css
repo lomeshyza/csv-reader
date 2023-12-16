@@ -1,0 +1,12 @@
+.mainPage__error {
+  border-radius: 10px;
+  background: #ff6565;
+  box-shadow: 2px 4px 9.9px 0px rgba(0, 0, 0, 0.25);
+  width: 720px;
+  height: 89px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 35px;
+  position: absolute;
+}

@@ -1,0 +1,16 @@
+@import './vendor/normalize.css';
+@import './vendor/fonts/inter.css';
+@import './blocks/body/body.css';
+@import './blocks/page/page.css';
+@import './blocks/mainPage/mainPage.css';
+@import './blocks/mainPage/__container/mainPage__container.css';
+@import './blocks/mainPage/__error/mainPage__error.css';
+@import './blocks/mainPage/__error-text/mainPage__error-text.css';
+@import './blocks/mainPage/__header/mainPage__header.css';
+@import './blocks/mainPage/__button/mainPage__button.css';
+@import './blocks/mainPage/__input/mainPage__input.css';
+@import './blocks/table/table.css';
+@import './blocks/table/__body/table__body.css';
+@import './blocks/table/__button/table__button.css';
+@import './blocks/table/__header/table__header.css';
+@import './blocks/table/__data/table__data.css';

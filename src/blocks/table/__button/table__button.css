@@ -1,0 +1,24 @@
+.table__button {
+    color: #fff;
+    border-style: none;
+    align-self: end;
+    text-align: center;
+    font-family: Noto Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    width: 164px;
+    height: 36px;
+    border-radius: 5px;
+    background: #6346b4;
+    margin-top: 18px;
+    margin-right: 14px;
+
+  }
+  .table__button:hover {
+    background: #a88ef0;
+    cursor: pointer;
+  }
+  .table__button:active {
+    background: #311f63;
+  }
